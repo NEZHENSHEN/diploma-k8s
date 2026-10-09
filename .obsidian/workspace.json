@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "f14add15cd63d651",
+        "id": "695d7f01bbb1aac6",
         "type": "tabs",
         "children": [
           {
-            "id": "3bf0200764e4d446",
+            "id": "5fef487c52bf0db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/Note.md",
+                "file": "Эксперименты/Запуск minikube.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "Запуск minikube"
+            }
+          },
+          {
+            "id": "bb050c86bbc377d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/K8s Architecture.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "K8s Architecture"
             }
           }
         ]
@@ -190,23 +202,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3bf0200764e4d446",
+  "active": "5fef487c52bf0db4",
   "lastOpenFiles": [
+    "Обучение/Архитектура kubernetes.md",
+    "Эксперименты/Запуск minikube.md",
+    "Excalidraw/K8s Architecture.md",
+    "Обучение/Официальная документация.md",
+    "Inbox/().md",
+    "_Templates/Эксперименты.md",
+    "_Templates/Статья.md",
+    "Excalidraw",
+    "_Templates/Обучение.md",
+    "_Templates/НоваяЗаметка.md",
+    "Обучение",
+    "Inbox/Без названия.md",
+    "_Templates/Теория.md",
+    "Inbox/Пироги.md",
     "Inbox/Kuber.md",
-    "_Templates/Note.md",
     "_Templates/Untitled.md",
-    "_Templates/Без названия.md",
     "Untitled.md",
     "Без названия.md",
     "_Attachments",
@@ -218,7 +243,6 @@
     "будет.md",
     "Тест.md",
     "Excalidraw/Drawing 2026-10-05 11.38.44.excalidraw.md",
-    "Excalidraw",
     "2026-10-05.md",
     "Снимок экрана от 2026-10-03 20-10-43.png",
     "Excalidraw/Drawing 2026-10-04 22.47.56.excalidraw.md",
@@ -227,10 +251,6 @@
     "Диплом.md",
     "Добро пожаловать.md",
     "k8s.md",
-    "создайте ссылку.md",
-    "Excalidraw/ServiceMesh.md",
-    "Excalidraw/Drawing 2026-09-29 11.41.22.excalidraw.md",
-    "Excalidraw/Architecture.md",
     "Архитектура.canvas"
   ]
 }

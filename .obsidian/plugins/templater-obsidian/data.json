@@ -1,0 +1,40 @@
+{
+  "data_version": 2,
+  "command_timeout": 5,
+  "templates_folder": "_Templates",
+  "templates_pairs": [],
+  "trigger_on_file_creation_mode": "folder",
+  "auto_jump_to_cursor": false,
+  "jump_to_cursor_after_file_name": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "folder_templates": [
+    {
+      "folder": "Inbox",
+      "template": "_Templates/НоваяЗаметка.md"
+    },
+    {
+      "folder": "Статьи",
+      "template": "_Templates/Статья.md"
+    },
+    {
+      "folder": "Эксперименты",
+      "template": "_Templates/Эксперименты.md"
+    },
+    {
+      "folder": "Теория",
+      "template": "_Templates/Теория.md"
+    },
+    {
+      "folder": "Обучение",
+      "template": "_Templates/Обучение.md"
+    }
+  ],
+  "file_templates": [],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "intellisense_render": "1",
+  "ignore_folders_on_creation": []
+}
