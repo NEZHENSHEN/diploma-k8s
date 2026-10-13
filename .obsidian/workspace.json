@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Эксперименты/Запуск minikube.md",
+                "file": "Inbox/План работы над дипломом.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Запуск minikube"
+              "title": "План работы над дипломом"
             }
           },
           {
-            "id": "bb050c86bbc377d1",
+            "id": "4d9ac4dd798c527e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/K8s Architecture.md"
+                "file": "_Templates/Статья.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "K8s Architecture"
+              "icon": "lucide-file",
+              "title": "Статья"
             }
           }
         ]
@@ -216,18 +218,21 @@
   },
   "active": "5fef487c52bf0db4",
   "lastOpenFiles": [
+    "_Templates/Статья.md",
+    "Inbox/План работы над дипломом.md",
     "Обучение/Архитектура kubernetes.md",
+    "Обучение/Официальная документация.md",
+    "Тема.md",
     "Эксперименты/Запуск minikube.md",
     "Excalidraw/K8s Architecture.md",
-    "Обучение/Официальная документация.md",
+    "Inbox/Тренировка.md",
+    "Без названия",
     "Inbox/().md",
     "_Templates/Эксперименты.md",
-    "_Templates/Статья.md",
     "Excalidraw",
     "_Templates/Обучение.md",
     "_Templates/НоваяЗаметка.md",
     "Обучение",
-    "Inbox/Без названия.md",
     "_Templates/Теория.md",
     "Inbox/Пироги.md",
     "Inbox/Kuber.md",
@@ -249,8 +254,6 @@
     "Excalidraw/Drawing 2026-10-04 22.47.41.excalidraw.md",
     "2026-10-04.md",
     "Диплом.md",
-    "Добро пожаловать.md",
-    "k8s.md",
     "Архитектура.canvas"
   ]
 }
