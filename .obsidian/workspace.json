@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Эксперименты/Запуск minikube.md",
+                "file": "Диплом/План работы над дипломом.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Запуск minikube"
+              "title": "План работы над дипломом"
             }
           }
         ]
@@ -204,6 +204,7 @@
   },
   "active": "4d9ac4dd798c527e",
   "lastOpenFiles": [
+    "Эксперименты/Запуск minikube.md",
     "Диплом/План работы над дипломом.md",
     "Excalidraw/K8s Architecture.md",
     "Диплом",
@@ -212,7 +213,6 @@
     "file:/home/zhenshen/Загрузки/Telegram Desktop/План работы.md",
     "Обучение/Архитектура kubernetes.md",
     "Обучение/Официальная документация.md",
-    "Эксперименты/Запуск minikube.md",
     "Inbox/Тренировка.md",
     "Inbox/().md",
     "_Templates/Эксперименты.md",
