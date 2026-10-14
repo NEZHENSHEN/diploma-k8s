@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Диплом/План работы над дипломом.md",
+                "file": "Статьи/Сетевые политики Kubernetes для изоляции подов и пространства имён.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "План работы над дипломом"
+              "title": "Сетевые политики Kubernetes для изоляции подов и пространства имён"
             }
           }
         ]
@@ -204,15 +204,17 @@
   },
   "active": "4d9ac4dd798c527e",
   "lastOpenFiles": [
-    "Эксперименты/Запуск minikube.md",
+    "_Templates/Статья.md",
+    "Статьи/Сетевые политики Kubernetes для изоляции подов и пространства имён.md",
+    "Обучение/Официальная документация.md",
+    "Обучение/Архитектура kubernetes.md",
     "Диплом/План работы над дипломом.md",
+    "Inbox/Без названия.md",
+    "Эксперименты/Запуск minikube.md",
     "Excalidraw/K8s Architecture.md",
     "Диплом",
     "Тема.md",
-    "_Templates/Статья.md",
     "file:/home/zhenshen/Загрузки/Telegram Desktop/План работы.md",
-    "Обучение/Архитектура kubernetes.md",
-    "Обучение/Официальная документация.md",
     "Inbox/Тренировка.md",
     "Inbox/().md",
     "_Templates/Эксперименты.md",
@@ -238,7 +240,6 @@
     "2026-10-05.md",
     "Снимок экрана от 2026-10-03 20-10-43.png",
     "Excalidraw/Drawing 2026-10-04 22.47.56.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-04 22.47.41.excalidraw.md",
     "Архитектура.canvas"
   ]
 }
