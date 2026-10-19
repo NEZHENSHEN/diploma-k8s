@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "attachmentFolderPath": "_Attachments",
-  "newFileFolderPath": "Inbox"
+  "newFileFolderPath": "Inbox",
+  "promptDelete": false
 }
