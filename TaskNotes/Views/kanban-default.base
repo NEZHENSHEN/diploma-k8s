@@ -45,8 +45,11 @@ formulas:
 views:
   - type: tasknotesKanban
     name: Kanban Board
+    filters:
+      and:
+        - milestone == link("Веха 7 - Развёрнуто расширенное тестовое микросервисное приложение в Kubernetes")
     groupBy:
-      property: status
+      property: file.folder
       direction: ASC
     order:
       - status
@@ -61,6 +64,7 @@ views:
       - recurrence
       - complete_instances
       - file.tasks
+      - milestone
     sort: []
     columnWidth: 280
     hideEmptyColumns: false
