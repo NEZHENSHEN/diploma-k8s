@@ -7,7 +7,7 @@ tags:
   - PoC
   - task
 md: 0.75
-milestone: "[[Веха 2 - Развернуто тестовое микросервисное приложение в Minikube с Cilium и проверена работа NetworkPolicy]]"
+milestone: "[[../Вехи/Веха 2 - Развернуто тестовое микросервисное приложение в Minikube с Cilium и проверена работа NetworkPolicy]]"
 ---
 
 # DoR

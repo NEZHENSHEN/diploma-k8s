@@ -6,8 +6,8 @@
   ],
   "includePaths": [],
   "isAdvancedRenameAndDeleteHandlerSuggestionDeclined": false,
-  "linkConversionMode": "OnSaveCommand",
-  "linkPathStyleMode": "ObsidianSettingsDefault",
+  "linkConversionMode": "OnExplicitCommand",
+  "linkPathStyleMode": "RelativePathToTheSource",
   "linkStyleMode": "Markdown",
   "proposedShouldHandleRenames": null,
   "shouldAllowEmptyEmbedAlias": true,
@@ -22,6 +22,6 @@
   "shouldResolveLinksViaAliases": false,
   "shouldUseAngleBrackets": true,
   "shouldUseGitHubHeadingAnchors": false,
-  "shouldUseLeadingDotForRelativePaths": true,
+  "shouldUseLeadingDotForRelativePaths": false,
   "shouldUseLeadingSlashForAbsolutePaths": true
 }

@@ -6,7 +6,7 @@ dateModified: 2026-11-08T19:38:15.669+03:00
 tags:
   - PoC
   - task
-milestone: "[[Веха 4 - Реализовано автоматическое построение графа разрешенной сетевой связности на основе данных Kubernetes API]]"
+milestone: "[[../Вехи/Веха 4 - Реализовано автоматическое построение графа разрешенной сетевой связности на основе данных Kubernetes API]]"
 md: 0.5
 ---
 
@@ -16,4 +16,4 @@ md: 0.5
 - Разработана программа на python, которая берёт данные из Kubernetes API о Pod, Service, NetworkPolicy
 - Полученные данные выводятся в консоль
 # Теория
-- [Kubernetes API](<Kubernetes API.md>)
+- [Kubernetes API](<../../Теория/Kubernetes API.md>)

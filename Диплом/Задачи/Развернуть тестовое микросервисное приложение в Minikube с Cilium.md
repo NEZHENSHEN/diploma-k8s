@@ -6,7 +6,7 @@ dateModified: 2026-11-08T15:52:38.985+03:00
 tags:
   - PoC
   - task
-milestone: "[[Веха 2 - Развернуто тестовое микросервисное приложение в Minikube с Cilium и проверена работа NetworkPolicy]]"
+milestone: "[[../Вехи/Веха 2 - Развернуто тестовое микросервисное приложение в Minikube с Cilium и проверена работа NetworkPolicy]]"
 md: 0.25
 ---
 
@@ -19,6 +19,6 @@ md: 0.25
 * Все три микросервиса успешно развернуты в кластере
 * Проверена доступность микросервисов и их взаимодействие через Service
 # Теория
-- [Cilium](<Cilium.md>)
-- [Deployment](<Deployment.md>)
-- [Service](<Service.md>)
+- [Cilium](<../../Теория/Cilium.md>)
+- [Deployment](<../../Теория/Deployment.md>)
+- [Service](<../../Теория/Service.md>)

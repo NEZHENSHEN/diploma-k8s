@@ -3,5 +3,7 @@
   "newFileLocation": "folder",
   "attachmentFolderPath": "_Attachments",
   "newFileFolderPath": "Inbox",
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }

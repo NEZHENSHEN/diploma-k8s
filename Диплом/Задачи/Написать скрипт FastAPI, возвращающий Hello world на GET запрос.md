@@ -7,7 +7,7 @@ tags:
   - task
   - PoC
 md: 0.25
-milestone: "[[Веха 1 - Развернуто текстовое FastAPI-приложение в Minikube с возможностью доступа по HTTP]]"
+milestone: "[[../Вехи/Веха 1 - Развернуто текстовое FastAPI-приложение в Minikube с возможностью доступа по HTTP]]"
 ---
 
 # DoR

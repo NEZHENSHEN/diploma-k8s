@@ -6,7 +6,7 @@ dateModified: 2026-11-08T13:22:44.317+03:00
 tags:
   - PoC
   - task
-milestone: "[[Веха 1 - Развернуто текстовое FastAPI-приложение в Minikube с возможностью доступа по HTTP]]"
+milestone: "[[../Вехи/Веха 1 - Развернуто текстовое FastAPI-приложение в Minikube с возможностью доступа по HTTP]]"
 md: 0.5
 ---
 
@@ -17,5 +17,5 @@ md: 0.5
 - Приложение успешно развернуто в minikube
 - Приложение доступно через Service, GET запрос с помощью curl возвращает "Hello world"
 # Теория
-- [Deployment](<Deployment.md>)
-- [Service](<Service.md>)
+- [Deployment](<../../Теория/Deployment.md>)
+- [Service](<../../Теория/Service.md>)
