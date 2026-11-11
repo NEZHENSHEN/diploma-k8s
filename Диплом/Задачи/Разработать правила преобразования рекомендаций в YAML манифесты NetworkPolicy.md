@@ -15,7 +15,7 @@ md: 2
 # DoD
 - Определены случаи, для которых возможна автоматическая генерация NetworkPolicy
 - Определены правила формирования YAML-манифестов
-- Правила генерации и ограничения их применения описаны в [[Генерация NetworkPolicy]]
+- Правила генерации и ограничения их применения описаны в [Генерация NetworkPolicy](<Генерация NetworkPolicy.md>)
 # Теория
-- [[Network Policy]]
-- [[Генерация NetworkPolicy]]
+- [Network Policy](<Network Policy.md>)
+- [Генерация NetworkPolicy](<Генерация NetworkPolicy.md>)

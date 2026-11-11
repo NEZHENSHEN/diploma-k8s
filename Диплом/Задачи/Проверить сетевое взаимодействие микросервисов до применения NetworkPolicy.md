@@ -15,9 +15,9 @@ md: 0.75
 - Ограничивающие NetworkPolicy отсутствуют. 
 # DoD
 * Подтверждена доступность user-service и order-service из frontend по HTTP через k8s Service
-* Результаты зафиксированы в [[Эксперименты с NetworkPolicy]]
+* Результаты зафиксированы в [Эксперименты с NetworkPolicy](<Эксперименты с NetworkPolicy.md>)
 # Теория
-- [[CNI]]
-- [[Сетевые политики Kubernetes для изоляции подов и пространства имён]]
+- [CNI](<CNI.md>)
+- [Сетевые политики Kubernetes для изоляции подов и пространства имён](<Сетевые политики Kubernetes для изоляции подов и пространства имён.md>)
 # Эксперименты
-- [[Эксперименты с NetworkPolicy]]
+- [Эксперименты с NetworkPolicy](<Эксперименты с NetworkPolicy.md>)

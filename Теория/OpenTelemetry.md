@@ -10,4 +10,4 @@ tags:
 ## Формулы / детали
 
 ## Источники и связанное
-- [[ ]]
+- [OpenTelemetry](<OpenTelemetry.md>)

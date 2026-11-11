@@ -11,9 +11,9 @@ md: 0.5
 ---
 
 # DoR
-- [[Развернуть тестовое микросервисное приложение в Minikube с Cilium]]
+- [Развернуть тестовое микросервисное приложение в Minikube с Cilium](<Развернуть тестовое микросервисное приложение в Minikube с Cilium.md>)
 # DoD
 - Разработана программа на python, которая берёт данные из Kubernetes API о Pod, Service, NetworkPolicy
 - Полученные данные выводятся в консоль
 # Теория
-- [[Kubernetes API]]
+- [Kubernetes API](<Kubernetes API.md>)

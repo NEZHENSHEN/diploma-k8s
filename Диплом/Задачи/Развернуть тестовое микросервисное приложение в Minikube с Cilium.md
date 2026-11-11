@@ -19,6 +19,6 @@ md: 0.25
 * Все три микросервиса успешно развернуты в кластере
 * Проверена доступность микросервисов и их взаимодействие через Service
 # Теория
-- [[Cilium]]
-- [[Deployment]]
-- [[Service]]
+- [Cilium](<Cilium.md>)
+- [Deployment](<Deployment.md>)
+- [Service](<Service.md>)
