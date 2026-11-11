@@ -48,7 +48,8 @@ views:
     groupBy:
       property: milestone
       direction: ASC
-    groupOrder: []
+    groupOrder:
+      - "[[Веха 12 - Реализована генерация YAML-манифестов для решения несоответствий]]"
     order:
       - status
       - priority
@@ -63,6 +64,8 @@ views:
       - complete_instances
       - file.tasks
       - milestone
-    sort: []
+    sort:
+      - property: milestone
+        direction: ASC
     columnWidth: 280
     hideEmptyColumns: false
