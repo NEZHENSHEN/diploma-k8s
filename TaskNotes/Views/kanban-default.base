@@ -45,12 +45,10 @@ formulas:
 views:
   - type: tasknotesKanban
     name: Kanban Board
-    filters:
-      and:
-        - milestone == link("Веха 7 - Развёрнуто расширенное тестовое микросервисное приложение в Kubernetes")
     groupBy:
-      property: file.folder
+      property: milestone
       direction: ASC
+    groupOrder: []
     order:
       - status
       - priority
