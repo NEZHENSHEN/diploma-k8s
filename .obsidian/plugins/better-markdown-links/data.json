@@ -5,7 +5,7 @@
     "/.+\\.tldraw\\.md$/"
   ],
   "includePaths": [],
-  "isAdvancedRenameAndDeleteHandlerSuggestionDeclined": false,
+  "isAdvancedRenameAndDeleteHandlerSuggestionDeclined": true,
   "linkConversionMode": "OnExplicitCommand",
   "linkPathStyleMode": "RelativePathToTheSource",
   "linkStyleMode": "Markdown",
